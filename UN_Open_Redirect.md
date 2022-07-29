@@ -1,5 +1,6 @@
 #  Open Redirect On un.org
 * `Exploit Author:` **Nguyen Phu Hung (d4rkp0w4r)**
+* `Url vuln:` https://www.un.org/sg/en/global-leadership/home
 
 ![](https://i.imgur.com/wPonK36.png)
 # Payload

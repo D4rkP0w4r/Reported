@@ -1,20 +1,15 @@
 # Broken Access Control in FUEL-CMS-1.5.2
-1. login to user
 
-![image](https://github.com/D4rkP0w4r/Reported/assets/79050415/2b83915f-2574-4e6b-9207-242d1e129985)
+1.  Login to user have permission user(create, edit,... users)
 
-2. Get the user id of that page (page_id can guess just 1,2,3,...)
+![image](https://github.com/D4rkP0w4r/Reported/assets/79050415/4082aac3-3b43-4967-9970-7d87fc8fa3db)
 
-![image](https://github.com/D4rkP0w4r/Reported/assets/79050415/caa28e08-fcb6-4d05-b170-7d16d111ba57)
+2. Go to https://localhost/fuel/users/toggle_off/1/active
 
-3. Attacker can active and inactive any users
-* https://localhost/fuel/users/toggle_on/<user_id>/active (on is active)
-* https://localhost/fuel/users/toggle_off/<user_id>/active (off is inactive)
+![image](https://github.com/D4rkP0w4r/Reported/assets/79050415/d813f79b-4970-4782-b0ee-0c1ce6cb34c7)
 
-![image](https://github.com/D4rkP0w4r/Reported/assets/79050415/c02b628d-8cbb-4b4e-a52d-6b9103e71f57)
+3. The admin account has been inactive
+![image](https://github.com/D4rkP0w4r/Reported/assets/79050415/a16d3d9e-f4f3-4004-b1c5-8cf56cacdeb5)
 
-4. User has been inactive
-
-![image](https://github.com/D4rkP0w4r/Reported/assets/79050415/903f0efd-ccb2-46d7-99be-0e19b618a1ee)
-
-* Attacker can inactive superadmin account 
+### Impact 
+* Attacker can active or inactive any accounts registerd in system

@@ -16,3 +16,5 @@
 4. User has been inactive
 
 ![image](https://github.com/D4rkP0w4r/Reported/assets/79050415/903f0efd-ccb2-46d7-99be-0e19b618a1ee)
+
+* Attacker can inactive superadmin account 

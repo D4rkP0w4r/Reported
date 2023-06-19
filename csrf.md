@@ -10,7 +10,7 @@
 
 ![image](https://github.com/D4rkP0w4r/CVEs/assets/79050415/349a4895-6e91-4cfc-9fa8-0184b5915330)
 
-6. Trick victims go to this malicious link
+5. Trick victims go to this malicious link
 * (become private page) https://localhost/fuel/pages/toggle_off/<page_id>/published
 * (become public page) https://localhost/fuel/pages/toggle_on/<page_id>/published
 

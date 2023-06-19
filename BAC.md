@@ -8,7 +8,7 @@
 
 ![image](https://github.com/D4rkP0w4r/Reported/assets/79050415/d813f79b-4970-4782-b0ee-0c1ce6cb34c7)
 
-3. The admin account has been inactive
+3. The super admin account has been inactive
 ![image](https://github.com/D4rkP0w4r/Reported/assets/79050415/a16d3d9e-f4f3-4004-b1c5-8cf56cacdeb5)
 
 ### Impact 

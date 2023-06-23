@@ -1,8 +1,8 @@
 # Broken Access Control in FUEL-CMS-1.5.2
 ### Summary
 - Attacker can active or inactive any accounts registerd in system
-* https://localhost/fuel/users/toggle_off/<user_id>/active (off is inactive)
-* https://localhost/fuel/users/toggle_on/<user_id>/active (on is active)
+* https://localhost/fuel/users/toggle_off/<user_id>/active (toggle_off is inactive)
+* https://localhost/fuel/users/toggle_on/<user_id>/active (toggle_on is active)
   
 1.  Login to user have permission user(create, edit,... users)
 
